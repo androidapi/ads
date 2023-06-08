@@ -1,26 +1,26 @@
 {
    "monetize_data":[
       {
-         "id":"166",
+         "id":"177",
          "app_id":"2304",
          "admob_publisher_id":"",
-         "admob_banner_ads_ids":"ca-app-pub-3940256099942544\/6300978111",
-         "admob_native_ads_ids":"ca-app-pub-3940256099942544\/2247696110",
-         "admob_interstitial_ads_ids":"ca-app-pub-3940256099942544\/1033173712",
+         "admob_banner_ads_ids":"ca-app-pub-3940256099942544/6300978111",
+         "admob_native_ads_ids":"ca-app-pub-3940256099942544/2247696110",
+         "admob_interstitial_ads_ids":"ca-app-pub-3940256099942544/1033173712",
+         "admob_app_open_ads_ids":"ca-app-pub-3940256099942544/3419835294",
          "admob_interstitial_ads_clicks":"1",
          "admob_rewarded_video_ads_ids":"",
          "admob_rewarded_video_ads_clicks":"",
-         "fb_banner_ads_ids":"726718968804778_726721245471217",
-         "fb_native_ads_ids":"726718968804778_726720675471274",
-         "fb_interstitial_ads_ids":"726718968804778_726721035471238",
+         "fb_banner_ads_ids":"IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+         "fb_native_ads_ids":"IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+         "fb_interstitial_ads_ids":"IMG_16_9_LINK#YOUR_PLACEMENT_ID",
          "fb_interstitial_ads_clicks":"1",
          "fb_rewarded_video_ads_ids":"",
-         "fb_native_banner_ads_ids":"726718968804778_726721148804560",
-         "fb_medium_rectangle_ads_ids":"",
-         "startapp_account_id":"facebook.com, 188045487100635, DIRECT, c3e20eee3f780d68",
+         "fb_native_banner_ads_ids":"IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+         "fb_medium_rectangle_ads_ids":"IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+         "startapp_account_id":"",
          "startapp_application_id":"",
          "chk_admob_app_open_ads":"0",
-         "admob_app_open_ads_ids":"ca-app-pub-3940256099942544\/3419835294",
          "chk_admob_banner_ads":"0",
          "chk_admob_native_ads":"0",
          "chk_admob_interstitial_ads":"0",
@@ -30,22 +30,15 @@
          "chk_fb_interstitial_ads":"1",
          "chk_fb_rewarded_video_ads":"0",
          "fb_rewarded_video_ads_clicks":"",
-
          "chk_fb_native_banner_ads":"1",
-
          "fb_banner_change_time":"0",
-
          "chk_fb_banner_change_time":"0",
-
          "chk_fb_native_change_time":"0",
-
          "fb_native_change_time":"0",
-
          "chk_fb_native_banner_change_time":"0",
          "fb_native_banner_change_time":"0",
          "chk_fb_medium_rectangle_ads":"0",
          "startapp_chk":"0",
-         "is_updated":"2023-02-17 18:37:39",
          "is_deleted":"0"
       }
    ],
