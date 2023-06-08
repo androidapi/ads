@@ -1,9 +1,10 @@
 {
     "AdType":"facebook",
-"Banner":"IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-"Interstitial":"IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-"NativeBanner":"IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-"Rewarded":"VID_HD_9_16_39S_LINK#YOUR_PLACEMENT_ID",
+"fb_banner_ads_ids":"IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+"fb_interstitial_ads_ids":"IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+"fb_native_banner_ads_ids":"IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+"fb_native_ads_ids":"VID_HD_9_16_39S_LINK#YOUR_PLACEMENT_ID",
+ "fb_medium_rectangle_ads_ids":"VID_HD_9_16_39S_LINK#YOUR_PLACEMENT_ID",
 "count":"3"
     
 }
