@@ -1,1 +1,24 @@
-
+{
+   "social_setting":[
+      {
+         "website_url":"https:\/\/dailysmalltips.com\/",
+         "website_url_status":"0",
+         "facebook_url":"Facebook For Gift Card",
+         "facecbook_url_status":"0",
+         "instagram_url":"Instagram For Gift Card",
+         "instagram_url_status":"0",
+         "twitter_url":"nulldata",
+         "twitter_url_status":"0",
+         "telegram_url":"https:\/\/t.me\/freegiftcardcashrewards",
+         "telegram_url_status":"0",
+         "youtube_url":"https:\/\/opentdb.com\/api_category.php",
+         "youtube_url_status":"1",
+         "apps_install_url":"Install and Earn For Gift Card",
+         "apps_install_url_status":"0",
+         "live_video_call_url":"http:\/\/qct.quickcodetechnologies.com\/livevideocall\/qctvideos\/",
+         "live_video_call_url_status":"1",
+         "start_url":"12",
+         "start_url_status":"1"
+      }
+   ]
+}
